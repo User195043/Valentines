@@ -63,10 +63,10 @@ body
 
 .word
 {
-	 width: 0px;
-  height: 0px;
-  background: rgba(89, .5);
-  position: center;
+	width: 40vh;
+  	height: 0px;
+  	background: rgba(89, .5);
+  	position: center;
 	margin-top: 10px;
 }
 
